@@ -45,5 +45,5 @@ export default defineConfig({
     qrcode(),
     removeConsole(),
   ],
-  // base: 'boilerplate-vite-react-typescript-sass-edgrid'
+  base: '/boilerplate-vite-react-typescript-sass-edgrid/'
 })
