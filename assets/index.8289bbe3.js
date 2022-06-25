@@ -47,7 +47,7 @@ Error generating stack: `+i.message+`
  * LICENSE.md file in the root directory of this source tree.
  *
  * @license MIT
- */function Uc(e){let{basename:t,children:r,window:a}=e,n=oe.exports.useRef();n.current==null&&(n.current=Lc({window:a}));let i=n.current,[o,d]=oe.exports.useState({action:i.action,location:i.location});return oe.exports.useLayoutEffect(()=>i.listen(d),[i]),oe.exports.createElement(Ic,{basename:t,children:r,location:o.location,navigationType:o.action,navigator:i})}var $c="/assets/logo.ecc203fb.svg";var Fo={exports:{}},bn={};/**
+ */function Uc(e){let{basename:t,children:r,window:a}=e,n=oe.exports.useRef();n.current==null&&(n.current=Lc({window:a}));let i=n.current,[o,d]=oe.exports.useState({action:i.action,location:i.location});return oe.exports.useLayoutEffect(()=>i.listen(d),[i]),oe.exports.createElement(Ic,{basename:t,children:r,location:o.location,navigationType:o.action,navigator:i})}var $c="/boilerplate-vite-react-typescript-sass-edgrid/assets/logo.ecc203fb.svg";var Fo={exports:{}},bn={};/**
  * @license React
  * react-jsx-runtime.production.min.js
  *
